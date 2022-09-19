@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "",
-    "url": ""
+    "url": "https://github.com/jsalamanca3/proyectoTailwind/tree/master"
   },
-  "author": "",
+  "author": "Julián Salamanca",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://jsalamanca3.github.io/proyectoTailwind/"
   },
-  "homepage": "",
+  "homepage": "https://jsalamanca3.github.io/proyectoTailwind/",
   "devDependencies": {
     "autoprefixer": "^10.4.11",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
   },
-  "description": ""
+  "description": "Este es un proyecto realizado con la guia de Ana Diaz del grupo de Platzi correspondiente al Curso Basico de Tailwind 2 y 3. https://platzi.com/cursos/tailwind/"
 }
